@@ -12,6 +12,7 @@ So that you can organize and plan your business
 ```
 
 # DEMO 
+![Employee Mgmt System Demo](assets/demo.gif)
 
 ## Installation
 
